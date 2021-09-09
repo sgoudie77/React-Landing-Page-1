@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Landing-Page-1/static/css/main.7a642004.chunk.css",
+    "main.js": "/React-Landing-Page-1/static/js/main.04c1f9f4.chunk.js",
+    "main.js.map": "/React-Landing-Page-1/static/js/main.04c1f9f4.chunk.js.map",
+    "runtime-main.js": "/React-Landing-Page-1/static/js/runtime-main.5a907357.js",
+    "runtime-main.js.map": "/React-Landing-Page-1/static/js/runtime-main.5a907357.js.map",
+    "static/js/2.30043cab.chunk.js": "/React-Landing-Page-1/static/js/2.30043cab.chunk.js",
+    "static/js/2.30043cab.chunk.js.map": "/React-Landing-Page-1/static/js/2.30043cab.chunk.js.map",
+    "static/js/3.f1da5be0.chunk.js": "/React-Landing-Page-1/static/js/3.f1da5be0.chunk.js",
+    "static/js/3.f1da5be0.chunk.js.map": "/React-Landing-Page-1/static/js/3.f1da5be0.chunk.js.map",
+    "index.html": "/React-Landing-Page-1/index.html",
+    "static/css/main.7a642004.chunk.css.map": "/React-Landing-Page-1/static/css/main.7a642004.chunk.css.map",
+    "static/js/2.30043cab.chunk.js.LICENSE.txt": "/React-Landing-Page-1/static/js/2.30043cab.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/React-Landing-Page-1/static/media/bg.04105963.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a907357.js",
+    "static/js/2.30043cab.chunk.js",
+    "static/css/main.7a642004.chunk.css",
+    "static/js/main.04c1f9f4.chunk.js"
+  ]
+}
